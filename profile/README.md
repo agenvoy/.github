@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <strong>English</strong> · <a href="https://github.com/agenvoy/Agenvoy/blob/master/doc/README.zh.md">繁體中文</a>
+  <strong>English</strong> · <a href="./doc/README.zh.md">繁體中文</a>
 </p>
 
 ## One-line install
@@ -31,6 +31,22 @@
 ```bash
 curl -fsSL https://agenvoy.com/scripts/install.sh | bash
 ```
+
+***
+
+## Web Dashboard
+
+Open **[web.agenvoy.com](https://web.agenvoy.com)** in your browser to reach the dashboard once the daemon is running on your machine.
+
+<p align="center">
+  <a href="https://youtu.be/n8tHHSCwOjE">
+    <img src="https://img.youtube.com/vi/n8tHHSCwOjE/maxresdefault.jpg" alt="Agenvoy Web Dashboard demo" width="640">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/n8tHHSCwOjE">▶ Watch the Web Dashboard walkthrough</a>
+</p>
 
 ***
 
@@ -212,3 +228,36 @@ Full documentation at **[agenvoy.com/docs](https://agenvoy.com/docs/)**
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
+
+## Community Contributors
+
+<a href="https://github.com/pardnchiu/Agenvoy/issues/3">
+  <img src="https://github.com/Azetry.png" width="40" height="40" alt="Azetry" style="border-radius:50%" />
+</a>
+<a href="https://github.com/pardnchiu/agenvoy/issues/49">
+  <img src="https://github.com/oceanasd.png" width="40" height="40" alt="oceanasd" style="border-radius:50%" />
+</a>
+
+## Contributor
+
+Just [open an issue](https://github.com/pardnchiu/agenvoy/issues/new) to share an idea.
+
+<a href="https://github.com/pardnchiu/agenvoy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pardnchiu/agenvoy&cache_bust=2026-05-12" alt="Agenvoy contributors" />
+</a>
+
+## Star History
+
+<a href="https://star-history.com/#pardnchiu/agenvoy&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=pardnchiu/agenvoy&type=Date&theme=dark&cache_bust=2026-05-12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=pardnchiu/agenvoy&type=Date&cache_bust=2026-05-12" />
+    <img alt="Agenvoy star history" src="https://api.star-history.com/svg?repos=pardnchiu/agenvoy&type=Date&cache_bust=2026-05-12" />
+  </picture>
+</a>
+
+When the curve trends up — that's the signal we want to see. Hit ★ to push it along.
+
+***
+
+©️ 2026 [邱敬幃 Pardn Chiu](https://www.linkedin.com/in/pardnchiu)
