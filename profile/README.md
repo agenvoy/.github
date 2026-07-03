@@ -20,10 +20,6 @@
   <a href="LICENSE"><img src="https://img.shields.io/github/license/pardnchiu/agenvoy?include_prereleases&style=for-the-badge" alt="License"></a>
 </p>
 
-<p align="center">
-  <strong>English</strong> · <a href="./doc/README.zh.md">繁體中文</a>
-</p>
-
 ## One-line install
 
 > On MacBook, also run `sudo pmset -c sleep 0` to prevent sleep from interrupting schedules.
