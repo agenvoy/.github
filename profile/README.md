@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://github.com/pardnchiu/agenvoy"><img src="https://img.shields.io/badge/View%20Project-Main%20Repo-blue?style=for-the-badge" alt="Main Repo"></a>
   <a href="https://github.com/pardnchiu/agenvoy/releases"><img src="https://img.shields.io/github/v/tag/pardnchiu/agenvoy?include_prereleases&style=for-the-badge" alt="Version"></a>
-  <a href="https://github.com/pardnchiu/agenvoy/blob/main/LICENSE"><img src="https://img.shields.io/github/license/pardnchiu/agenvoy?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/pardnchiu/agenvoy/blob/master/LICENSE"><img src="https://img.shields.io/github/license/agenvoy/agenvoy?style=for-the-badge" alt="License"></a>
 </p>
 
 ---
